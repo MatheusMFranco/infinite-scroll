@@ -1,5 +1,7 @@
 # Infinite Pagination
 
+![Build Status](https://img.shields.io/github/last-commit/matheusmfranco/infinite-scroll?style=plastic)
+
 This project is a web app with a single page that lists all the items available in this legacy API in an infinite scrolling page. Whenever the user clicks in one of the items, the item becomes greyed out. This persist even after refreshing the page.
 
 You can see the site in [https://react-infinite.web.app](https://react-infinite.web.app).
