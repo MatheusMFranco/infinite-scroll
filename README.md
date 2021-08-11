@@ -4,7 +4,7 @@ This project is a web app with a single page that lists all the items available 
 
 You can see the site in [https://react-infinite.web.app](https://react-infinite.web.app).
 
-<center><img src="https://res.cloudinary.com/alreadyhas/image/upload/v1621828915/legacy_zudgav.gif"></center>
+<center><img src="preview.gif"></center>
 
 ## Available Scripts
 
